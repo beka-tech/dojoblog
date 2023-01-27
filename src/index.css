@@ -27,6 +27,7 @@
 }
 .navbar a:hover {
   color: #f1356d;
+  background-color: rgb(240, 245, 243);
 }
 .content {
   max-width: 600px;
@@ -41,6 +42,7 @@
 }
 .blog-preview:hover{
   box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  background-color: rgb(240, 245, 243);
 }
 .blog-preview h2{
   font-size: 20px;
