@@ -1,7 +1,7 @@
+// npx json-server --watch data/db.json --port 8000
 import './App.css';
 import Navbar from './Navbar';
 import Home from './Home';
-import BlogList from './BlogList';
 
 function App() {
   return (
@@ -9,7 +9,6 @@ function App() {
       <Navbar />
       <div className="content">
         <Home  />
-       
       </div>
     </div>
   );
